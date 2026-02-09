@@ -27,3 +27,7 @@ Los resultados mostraron que no existe una relación directa entre congestión y
 El análisis evidencia que el PIB per cápita no es un predictor confiable del nivel de congestión urbana. Uruguay destaca como un caso de alta productividad con tráfico eficiente, mientras que Ciudad de México combina alta congestión con un PIB elevado, lo que sugiere que otros factores —infraestructura, políticas de transporte, planificación urbana— influyen más en la movilidad que la productividad económica.
 Santiago aparece como una ciudad prioritaria para inversión en infraestructura de transporte, dado que combina congestión elevada con baja productividad relativa. También se recomienda profundizar en estudios cualitativos y validar fuentes para entender por qué ciudades con niveles similares de desempleo presentan comportamientos tan distintos en movilidad.
 En general, los hallazgos sugieren que la región requiere políticas integradas de movilidad urbana y desarrollo económico, y que ciudades como Montevideo podrían servir como benchmark para modelos de tráfico eficiente.
+
+### Documentación del Proyecto
+Para más detalles técnicos, puedes consultar el siguiente documento:
+👉 [Descargar o Ver Documentación PDF](./ladb_mobility_economy_2024_clean.pdf)
